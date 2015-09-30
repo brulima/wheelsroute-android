@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:weightSum="1"
+    android:clickable="false"
+    android:orientation="vertical"
+    android:background="#ff8dbd64"
+    android:id="@+id/mais_opções">
+
+    <ImageButton
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/imageButton5"
+        android:src="@drawable/abc_ic_ab_back_mtrl_am_alpha"
+        android:background="#ff8dbd64"
+        android:onClick="chamarActivityInicial2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/tm_nome"
+        android:id="@+id/textView4"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="30dp"
+        android:textColor="#ffffffff" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tm_cadastrar"
+        android:id="@+id/button6"
+        android:onClick="chamarActivityCadastroRouties"
+        android:nestedScrollingEnabled="false" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tm_Favoritos"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal"
+        android:onClick="chamarActivityFavoritos"
+        android:nestedScrollingEnabled="false" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tm_pendencia"
+        android:id="@+id/button2"
+        android:layout_gravity="center_horizontal"
+        android:onClick="chamarActivityRouties" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tm_avaliar"
+        android:id="@+id/button4"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tm_sair"
+        android:id="@+id/button5"
+        android:layout_gravity="center_horizontal"
+        android:onClick="chamarActivitySair" />
+</LinearLayout>

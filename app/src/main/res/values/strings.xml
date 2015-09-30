@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Projeto_AM</string>
+
+    <string name="tl_bem_vindo">Bem vindo ao Wheels Route!</string>
+    <string name="tl_faça">Faça seu login pelo facebook!</string>
+    <string name="tl_email">E-mail</string>
+    <string name="tl_senha">Senha</string>
+    <string name="tl_esqueci">Esqueceu sua senha?</string>
+    <string name="tl_lembre">Lembre-se de mim</string>
+    <string name="tl_existente">Sou um usuário existente</string>
+    <string name="tl_novo">Sou um usuário novo</string>
+    <string name="tl_login2">Login</string>
+    <string name="tl_logar">Iniciar</string>
+    <string name="action_settings">Settings</string>
+    <string name="tl_cadastro">Nao sou cadastrado!</string>
+
+    <string name="tc_cadastro">Cadastro</string>
+    <string name="tc_digiteNovamenteEmail">Digite o seu e-mail novamente</string>
+    <string name="tc_digiteNovamenteSenha">Digite a sua senha novamente</string>
+    <string name="tc_insira">Insira uma senha</string>
+    <string name="tc_registrar">Registre-se</string>
+    <string name="tc_meu">Meu e-mail é</string>
+
+    <string name="ts_digite">Digite seu email!</string>
+    <string name="ts_descrição">Iremos enviar um email para redefinir sua senha.</string>
+    <string name="ts_enviar">Enviar</string>
+
+    <string name="tm_nome">Olá, -nome do usuario-</string>
+    <string name="tm_Favoritos">Routies favoritos</string>
+    <string name="tm_pendencia">Routies cadastrados</string>
+    <string name="tm_avaliar">Avalie-nos</string>
+    <string name="tm_sair">Sair</string>
+    <string name="tm_cadastrar">Novo Routies</string>
+
+    <string name="tf_favoritos">Favoritos</string>
+
+    <string name="tr_routies">Routies cadastrados</string>
+
+    <string name="tcr_cadatro">Cadastro de um novo Routie</string>
+    <string name="tcr_endereco">Endereço: </string>
+    <string name="tcr_Nome">Nome do routie: </string>
+    <string name="tcr_tipo">Tipo:</string>
+    <string name="tcr_cadastrar">Cadastrar</string>
+    <string name="tcr_prosseguir">Prosseguir</string>
+    <string name="tcr_imagem">Imagem do routie:</string>
+    <string name="tcr_foto">Adicionar foto</string>
+
+
+
+
+
+
+</resources>
